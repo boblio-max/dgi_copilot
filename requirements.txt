@@ -1,0 +1,3 @@
+# No third-party dependencies: stdlib only (Python 3.10+).
+# pytest is optional for running tests (unittest works without it).
+pytest>=7
